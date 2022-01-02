@@ -24,7 +24,7 @@ showing the Linear Regression with GRE Score, TOEFL Score, CGPA, all in comparis
 
 (2) The greater the TOEFL Score the higher the chance of admission
 
-(3) The greater the CGPA the higher the chance of admission
+(3) The greater the CGPA the higher the chance of admission one of the insight
 
 GRE Score, TOEFL Score, CGPA are preferrably used for our x because those columns has the highest correlated values and are dependent variables
 
