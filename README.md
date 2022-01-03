@@ -8,7 +8,7 @@ Prediction of admission based on some score to determine the chance of admission
 
 import pandas as pd import seaborn as sns import matplotlib.pyplot as plt from sklearn import linear_model 
 
-Importing of the dataset needed for this 
+
 
 
 
